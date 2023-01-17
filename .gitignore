@@ -1,0 +1,21 @@
+__pycache__/
+
+# Virtualenv
+.Python
+[Bb]in
+[Ii]nclude
+[Ll]ib
+[Ll]ib64
+[Ll]ocal
+[Gg]enerated
+[Ss]hare
+#[Ss]cripts
+pyvenv.cfg
+.venv
+pip-selfcheck.json
+data/
+!**/scripts/
+
+# exclude data files
+*.csv
+*.parquet

@@ -1,0 +1,4 @@
+requests
+pandas
+pymongo[aws,ocsp,snappy,srv,zstd,encryption]
+SQLAlchemy
